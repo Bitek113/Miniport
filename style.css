@@ -15,7 +15,7 @@ button:hover {
 
 #container {
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
 }
 
 .heading {
@@ -232,7 +232,7 @@ input {
 
 .socials {
     width: 70%;
-    margin: 20px auto;
+    margin: 0 auto;
     border-top: 1px solid rgb(103, 103, 103);
     border-bottom: 1px solid rgb(103, 103, 103);
     display: flex;
@@ -307,6 +307,7 @@ input {
     color: #666;
     text-align: center;
     padding: 8vh 0;
+    margin: 0;
 }
 
 .footer-text a {
